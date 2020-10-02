@@ -1,3 +1,4 @@
+# Amazing solution 
 # Implementing Merge Sort Algorithm on an unsorted array.
 """ ************************************************************************
 Merge Sort is based on Divide-and-conquer Algorithm.
